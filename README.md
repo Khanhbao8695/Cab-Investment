@@ -7,14 +7,18 @@ Pandas
 Seaborn
 Matplotlib
 xlrd
-Plotly
+Plotly <br>
 # File Descriptions
-G2M insight for Cab Investment firm.ipynb: This is my jupyter notebook describe my data analysis and works
-Cab-Investment/Data/Cab_Data.csv: Data set about transactions happened with city locations with price charged, and costs of trip for each company
-Cab-Investment/Data/City.csv:Data set about cities, their population and number of users using taxi services 
-Cab-Investment/Data/Customer_ID.csv: general information about customer's gender, customer id, customer age, and their incomes
-Cab-Investment/Data/Transaction_ID.csv: a table joined between cab_data and customer_id with their payment methods
-Cab-Investment/Data/US Bank Holiday.csv: dates and holiday definition in the US
+G2M insight for Cab Investment firm.ipynb: This is my jupyter notebook describe my data analysis and works <br>
+Cab-Investment/Data/Cab_Data.csv: Data set about transactions happened with city locations with price charged, and costs of trip for each company <br>
+
+Cab-Investment/Data/City.csv:Data set about cities, their population and number of users using taxi services <br>
+
+Cab-Investment/Data/Customer_ID.csv: general information about customer's gender, customer id, customer age, and their incomes<br>
+
+Cab-Investment/Data/Transaction_ID.csv: a table joined between cab_data and customer_id with their payment methods <br>
+
+Cab-Investment/Data/US Bank Holiday.csv: dates and holiday definition in the US <br>
 
 
 # Business Understanding
