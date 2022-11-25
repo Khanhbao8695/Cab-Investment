@@ -20,4 +20,5 @@ Finally, Which firm is considered a better and safer investment for our client?
 5. Evaluate the Results
 
 #Linkedin Blog Post
+
 https://www.linkedin.com/pulse/how-data-could-help-companies-make-investment-decisions-nguyen
